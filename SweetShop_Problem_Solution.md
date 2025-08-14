@@ -121,12 +121,3 @@ class SweetShop
 ```
 
 ---
-
-## How to Create PDF
-
-1. Open this Markdown file in a tool like **Typora** or **VS Code with a Markdown PDF extension**.
-2. Export as PDF.
-
-Alternatively, use any online Markdown-to-PDF converter.
-
----
